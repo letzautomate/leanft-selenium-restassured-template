@@ -5,8 +5,6 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-
-
 public class SeleniumBasePage {
 
     public static final Logger LOGGER = Logger.getLogger(SeleniumBasePage.class);

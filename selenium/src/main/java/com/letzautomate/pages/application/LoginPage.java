@@ -6,8 +6,14 @@ import org.openqa.selenium.By;
 
 public class LoginPage extends SeleniumBasePage {
     private final By searchTextBox = By.name("q");
-    public void login() {
-        launchApp();
-        enterText(searchTextBox, "Ram");
+    public boolean login() {
+        try {
+            launchApp();
+            enterText(searchTextBox, "Ram");
+        }catch(Exception e) {
+            e.printStackTrace();
+            return false;
+        }
+        return true;
     }
 }

@@ -1,7 +1,5 @@
 package com.letzautomate;
 
-
-
 import com.letzautomate.pages.application.LoginPage;
 import com.letzautomate.utilities.DriverManager;
 import org.testng.annotations.Test;
@@ -12,6 +10,5 @@ public class TC001 extends DriverManager {
     public void tc001() {
         LoginPage loginPage = new LoginPage();
         loginPage.login();
-
     }
 }
