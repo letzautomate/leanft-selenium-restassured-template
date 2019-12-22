@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leanft/leanft.iml" filepath="$PROJECT_DIR$/.idea/modules/leanft/leanft.iml" group="leanft" />
+      <module fileurl="file://$PROJECT_DIR$/leanft-selenium-restassured-template.iml" filepath="$PROJECT_DIR$/leanft-selenium-restassured-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_main.iml" filepath="$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_main.iml" group="leanft-selenium-restassured-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_test.iml" group="leanft-selenium-restassured-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leanft/leanft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/leanft/leanft_main.iml" group="leanft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leanft/leanft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/leanft/leanft_test.iml" group="leanft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium.iml" group="selenium" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium_main.iml" group="selenium" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium_test.iml" group="selenium" />
+    </modules>
+  </component>
+</project>

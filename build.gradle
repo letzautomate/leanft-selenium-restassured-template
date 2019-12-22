@@ -1,0 +1,26 @@
+apply plugin: 'java'
+
+ 
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+	compile project(':leanft')
+	compile project(':selenium')
+}
+
+test{
+	systemProperty 'browser', System.getProperty('browser')
+	systemProperty 'tcGroups', System.getProperty('tcGroups')
+
+	useTestNG() {
+		includeGroups << System.getProperty("tcGroups").toString();
+
+		options{
+			parallel = 'methods'
+			threadCount = 1
+		}
+	}
+
+}
