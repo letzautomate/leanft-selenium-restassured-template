@@ -48,4 +48,17 @@ public class Login extends LeanFTBasePage {
         }
         return true;
     }
+
+    public boolean closeApplication() {
+        try{
+            LOGGER.info("Before Closing the window");
+            calculatorWindow.close();
+            LOGGER.info("After Closing the window");
+        }catch(Exception e){
+            LOGGER.info("There was an error in closing the window");
+            e.printStackTrace();
+            return false;
+        }
+        return true;
+    }
 }

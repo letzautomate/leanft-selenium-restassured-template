@@ -1,8 +1,12 @@
-[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.generic.SeleniumBasePage  - Before Enter URL
-[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.generic.SeleniumBasePage  - After Enter URL
-[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.generic.SeleniumBasePage  - Before Enter TExt
-[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.generic.SeleniumBasePage  - After Enter TExt
 [TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - Initialize Lean FT SDK with   default configuration.
 [TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - Initialization complete.
 [TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - Before click the button :: 6
 [TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - After click the button :: 6
+[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - Before Closing the window
+[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - After Closing the window
+[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - Initialize Lean FT SDK with   default configuration.
+[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - Initialization complete.
+[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - Before click the button :: 6
+[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - After click the button :: 6
+[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - Before Closing the window
+[TestNG-test=Gradle test-1] INFO  com.letzautomate.pages.common.LeanFTBasePage  - After Closing the window

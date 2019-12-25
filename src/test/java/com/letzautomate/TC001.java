@@ -9,10 +9,11 @@ public class TC001 extends DriverManager {
 
     @Test(groups={"regression"})
     public void tc001() {
-        LoginPage loginPage = new LoginPage();
+        //LoginPage loginPage = new LoginPage();
         Login login = new Login();
-        loginPage.login();
+        //loginPage.login();
         login.launchApplication();
         login.addNumbers();
+        login.closeApplication();
     }
 }
