@@ -22,5 +22,8 @@ test{
 			threadCount = 1
 		}
 	}
+    clean.doFirst {
+        delete "$buildDir/application.log"
 
+    }
 }

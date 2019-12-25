@@ -3,6 +3,7 @@ package com.letzautomate.pages.common;
 import com.hp.lft.report.Reporter;
 import com.hp.lft.sdk.ModifiableSDKConfiguration;
 import com.hp.lft.sdk.SDK;
+import com.hp.lft.sdk.java.Button;
 import com.hp.lft.sdk.java.Editor;
 import org.apache.log4j.Logger;
 import org.testng.annotations.BeforeMethod;
@@ -54,6 +55,16 @@ public class LeanFTBasePage {
             LOGGER.info("There was an exception in entering text");
             e.printStackTrace();
         }
+    }
 
+    public void buttonClick(Button button) {
+        try {
+            LOGGER.info("Before click the button :: " + button.getLabel());
+            button.click();
+            LOGGER.info("After click the button :: "+  button.getLabel());
+        }catch(Exception e) {
+            LOGGER.info("There was an exception in clicking the button");
+            e.printStackTrace();
+        }
     }
 }

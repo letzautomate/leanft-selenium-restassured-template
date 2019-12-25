@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4becad2-919c-47e2-ac79-f69a22789427" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_websocket_jakarta_websocket_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_grizzly_grizzly_framework_2_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_grizzly_grizzly_http_2_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_grizzly_grizzly_http_server_2_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_tyrus_tyrus_client_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_tyrus_tyrus_container_grizzly_client_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_tyrus_tyrus_core_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_tyrus_tyrus_spi_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/leanft/appmodels/com/letzautomate/appmodel/ApplicationName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leanft/src/test/resources/application/Calculator.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leanft/src/test/resources/application/runapplication.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leanft/src/test/resources/leanft.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/annotation-processors.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
@@ -23,14 +10,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/leanft/appmodels/com/letzautomate/appmodel/applicationName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/leanft/leanft_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/leanft/leanft_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/leanft/leanft_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/leanft/leanft_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/letzautomate/TC001.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/letzautomate/TC001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.letzautomate.TC001.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.letzautomate.TC001.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.letzautomate.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.letzautomate.html" afterDir="false" />
@@ -38,17 +19,15 @@
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoApplication.log" beforeDir="false" afterPath="$PROJECT_DIR$/demoApplication.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leanft-selenium-restassured-template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leanft-selenium-restassured-template.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leanft/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/leanft/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoApplication.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leanft/build/classes/java/main/com/letzautomate/pages/application/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/leanft/build/classes/java/main/com/letzautomate/pages/application/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leanft/build/classes/java/main/com/letzautomate/pages/common/LeanFTBasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/leanft/build/classes/java/main/com/letzautomate/pages/common/LeanFTBasePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leanft/build/libs/leanft.jar" beforeDir="false" afterPath="$PROJECT_DIR$/leanft/build/libs/leanft.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/appmodel/applicationName.tsrx" beforeDir="false" afterPath="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/appmodel/ApplicationName.tsrx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/application/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/application/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium/build/classes/java/main/com/letzautomate/pages/application/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/build/classes/java/main/com/letzautomate/pages/application/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium/build/classes/java/main/com/letzautomate/pages/generic/SeleniumBasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/build/classes/java/main/com/letzautomate/pages/generic/SeleniumBasePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium/build/libs/selenium.jar" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/build/libs/selenium.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/letzautomate/TC001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/letzautomate/TC001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/build/resources/main/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/build/resources/main/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/src/main/resources/log4j.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -90,20 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="66" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="12" selection-end-line="14" />
+            <state relative-caret-position="262">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -120,8 +90,8 @@
       <file leaf-file-name="LeanFTBasePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+            <state relative-caret-position="541">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,8 +102,8 @@
       <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/application/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="320">
+              <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,7 +111,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationName.tsrx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selenium/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationName.tsrx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/appmodel/ApplicationName.tsrx">
           <provider selected="true" editor-type-id="appmodels" />
           <provider editor-type-id="text-editor" />
@@ -161,18 +140,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SeleniumBasePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium/src/main/java/com/letzautomate/pages/generic/SeleniumBasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -694,9 +661,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="7885321044603" />
+        <entry key="$PROJECT_DIR$" value="7885554236576" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="164027122" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1828178618" />
         <entry key="$PROJECT_DIR$/leanft/build.gradle" value="3657226317" />
         <entry key="$PROJECT_DIR$/selenium/build.gradle" value="3334004908" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2935696240" />
@@ -832,17 +799,17 @@
         <option value="$PROJECT_DIR$/selenium/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/com/letzautomate/pages/generic/SeleniumBasePage.java" />
         <option value="$PROJECT_DIR$/selenium/src/main/java/com/letzautomate/utilities/DriverManager.java" />
-        <option value="$PROJECT_DIR$/selenium/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/selenium/src/main/java/com/letzautomate/pages/application/LoginPage.java" />
         <option value="$PROJECT_DIR$/selenium/src/main/java/com/letzautomate/pages/generic/SeleniumBasePage.java" />
         <option value="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/appmodel/applicationName.tsrx" />
         <option value="$PROJECT_DIR$/leanft/src/test/resources/application/runapplication.bat" />
-        <option value="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java" />
         <option value="$PROJECT_DIR$/leanft/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/com/letzautomate/TC001.java" />
-        <option value="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/application/Login.java" />
         <option value="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/appmodel/ApplicationName.tsrx" />
+        <option value="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java" />
+        <option value="$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/application/Login.java" />
+        <option value="$PROJECT_DIR$/selenium/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -876,133 +843,18 @@
             <path>
               <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="letzautomate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="letzautomate" type="462c0819:PsiDirectoryNode" />
-              <item name="appmodel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="letzautomate" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="letzautomate" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="letzautomate" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="leanft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanft-selenium-restassured-template" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="letzautomate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanft-selenium-restassured-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -1012,6 +864,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="demoApplication.log&#9;FILE&#9;file://E:/LetsDoIT/leanft-selenium-restassured-template/demoApplication.log" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -1119,34 +972,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2019.12.25 at 09h 23m 18s.xml">
-      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Unnamed - 2019.12.25 at 09h 23m 28s.xml">
-      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Unnamed - 2019.12.25 at 09h 26m 52s.xml">
-      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Unnamed - 2019.12.25 at 09h 29m 56s.xml">
-      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Unnamed - 2019.12.25 at 09h 53m 50s.xml">
-      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Unnamed - 2019.12.25 at 09h 55m 33s.xml">
-      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Unnamed - 2019.12.25 at 09h 55m 45s.xml">
-      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Unnamed - 2019.12.25 at 10h 01m 39s.xml">
-      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Unnamed - 2019.12.25 at 10h 01m 38s.xml">
       <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="Unnamed - 2019.12.25 at 10h 03m 40s.xml">
+      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.12.25 at 10h 30m 57s.xml">
+      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.12.25 at 10h 33m 11s.xml">
+      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.12.25 at 10h 33m 12s.xml">
+      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.12.25 at 10h 38m 16s.xml">
+      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.12.25 at 10h 40m 16s.xml">
+      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.12.25 at 10h 42m 44s.xml">
+      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.12.25 at 10h 48m 00s.xml">
+      <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.12.25 at 10h 53m 49s.xml">
       <configuration name="Unnamed" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
@@ -1167,19 +1020,19 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2375189" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3106961" />
       <window_info anchor="right" id="Gradle" order="5" weight="0.32980332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39898133" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.31239387" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
@@ -1215,27 +1068,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java</url>
+          <line>61</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/application/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/appmodel/ApplicationName.tsrx">
       <provider selected="true" editor-type-id="appmodels" />
       <provider editor-type-id="text-editor" />
@@ -1492,13 +1337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/selenium/src/main/java/com/letzautomate/pages/application/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1527,34 +1365,10 @@
     <entry file="file://$PROJECT_DIR$/leanft/src/test/resources/leanft.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leanft/src/test/resources/application/runapplication.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="12" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leanft/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -1575,19 +1389,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/application/Login.java">
+    <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/appmodel/ApplicationName.tsrx">
+      <provider selected="true" editor-type-id="appmodels" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leanft/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="374">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/common/LeanFTBasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/appmodel/ApplicationName.tsrx">
-      <provider selected="true" editor-type-id="appmodels" />
-      <provider editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/leanft/src/main/java/com/letzautomate/pages/application/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoApplication.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="101" lean-forward="true" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/application.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

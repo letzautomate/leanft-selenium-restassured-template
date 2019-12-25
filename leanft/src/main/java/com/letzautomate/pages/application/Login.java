@@ -25,9 +25,9 @@ public class Login extends LeanFTBasePage {
     }
 
     public boolean launchApplication() {
-        initLeanFTSDK();
-       ProcessBuilder processBuilder = new ProcessBuilder("E:\\LetsDoIT\\leanft-selenium-restassured-template\\leanft\\src\\test\\resources\\application\\runapplication.bat").inheritIO();
-       processBuilder.directory(new File("E:\\LetsDoIT\\leanft-selenium-restassured-template\\leanft\\src\\test\\resources\\application\\"));
+       initLeanFTSDK();
+       ProcessBuilder processBuilder = new ProcessBuilder(System.getProperty("user.dir")+"\\leanft\\src\\test\\resources\\application\\runapplication.bat").inheritIO();
+       processBuilder.directory(new File(System.getProperty("user.dir")+"\\leanft\\src\\test\\resources\\application\\"));
        try{
            processBuilder.start();
        }catch(Exception e){
@@ -39,9 +39,10 @@ public class Login extends LeanFTBasePage {
 
     public boolean addNumbers(){
         try{
-            //button4.click();
-            button6.click();
-        }catch(GeneralLeanFtException e){
+            //button4.click();a
+            buttonClick(button6);
+
+        }catch(Exception e){
             e.printStackTrace();
             return false;
         }
