@@ -1,3 +1,4 @@
 rootProject.name = 'leanft-selenium-restassured-template'
 include 'leanft'
 include 'selenium'
+include 'restassured'

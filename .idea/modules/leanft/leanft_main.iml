@@ -31,7 +31,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.unittesting-14.53.0.jar!/" />
+          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.sdk-14.53.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.cucumberv4-14.53.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -49,7 +58,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.report-14.53.0-javadoc.jar!/" />
+          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.unittesting-14.53.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -58,7 +67,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.report-14.53.0.jar!/" />
+          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.report-14.53.0-javadoc.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -103,16 +112,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.sdk-14.53.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.cucumberv4-14.53.0.jar!/" />
+          <root url="jar://C:/Program Files (x86)/Micro Focus/LeanFT/SDK/Maven/com.hp.lft.report-14.53.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

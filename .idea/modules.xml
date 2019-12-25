@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/leanft-selenium-restassured-template_test.iml" group="leanft-selenium-restassured-template" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leanft/leanft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/leanft/leanft_main.iml" group="leanft" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leanft/leanft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/leanft/leanft_test.iml" group="leanft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restassured/restassured.iml" filepath="$PROJECT_DIR$/.idea/modules/restassured/restassured.iml" group="restassured" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium.iml" group="selenium" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium_main.iml" group="selenium" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium_test.iml" group="selenium" />

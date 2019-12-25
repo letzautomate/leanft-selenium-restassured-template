@@ -8,6 +8,12 @@ repositories {
 dependencies {
 	compile project(':leanft')
 	compile project(':selenium')
+	// https://mvnrepository.com/artifact/com.aventstack/extentreports
+	compile group: 'com.aventstack', name: 'extentreports', version: '3.1.5'
+    // https://mvnrepository.com/artifact/commons-io/commons-io
+    compile group: 'commons-io', name: 'commons-io', version: '2.6'
+
+
 }
 
 test{

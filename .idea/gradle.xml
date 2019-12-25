@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/leanft" />
+            <option value="$PROJECT_DIR$/restassured" />
             <option value="$PROJECT_DIR$/selenium" />
           </set>
         </option>
