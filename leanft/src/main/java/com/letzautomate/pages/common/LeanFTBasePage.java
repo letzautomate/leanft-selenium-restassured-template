@@ -1,11 +1,13 @@
 package com.letzautomate.pages.common;
 
+import com.hp.lft.report.Reporter;
 import com.hp.lft.sdk.ModifiableSDKConfiguration;
 import com.hp.lft.sdk.SDK;
 import com.hp.lft.sdk.java.Editor;
 import org.apache.log4j.Logger;
 import org.testng.annotations.BeforeMethod;
 
+import java.net.URI;
 
 
 public class LeanFTBasePage {
@@ -27,9 +29,13 @@ public class LeanFTBasePage {
         else{
             logger.info("LFTRuntime.exe Engine process already started.");
         }*/
+        ModifiableSDKConfiguration modifiableSDKConfiguration = null;
         try{
+            modifiableSDKConfiguration = new ModifiableSDKConfiguration();
+            modifiableSDKConfiguration.setServerAddress(new URI("ws://localhost:5095"));
             LOGGER.info("Initialize Lean FT SDK with   default configuration.");
-            SDK.init(new ModifiableSDKConfiguration());
+            SDK.init(modifiableSDKConfiguration);
+            Reporter.init();
             LOGGER.info("Initialization complete.");
         }catch(Exception e){
             LOGGER.info("There was an error in initializing SDK");

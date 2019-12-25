@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: jakarta.websocket:jakarta.websocket-api:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.websocket/jakarta.websocket-api/1.1.1/1fd00682dbede1b5ffddeed2311b45e223f7ea68/jakarta.websocket-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.websocket/jakarta.websocket-api/1.1.1/863f62dfcf3bf5304efdc1b8d15d3fda4cd5690f/jakarta.websocket-api-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
